@@ -10,6 +10,12 @@ Algoritmo que recebe um número, e a partir deste número, uma opção de cálcu
 
 Os cálculos estão contidos dentro de métodos (sem return).
 
+<div align="center">
+   <img src="https://github.com/Samuel-045/Metodos-java/assets/95144250/40f4fc6a-dd46-418d-a22c-c78e46eef0b0"/>
+
+   >Demonstração do código executado.
+</div>
+
 <h2>:file_folder: Como ter acesso ao projeto</h2>
 Basta baixar o arquivo em sua máquina, ter o java (da versão 14 em diante para rodar sem problemas) e alguma IDE instalada.
 
